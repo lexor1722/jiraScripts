@@ -1,0 +1,8 @@
+
+.aui-sidebar .aui-sidebar-wrapper {
+    width: 28px !important;
+	display: none !important;
+}
+.aui-page-panel{
+	padding-left: 28px !important;
+}
